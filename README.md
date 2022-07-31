@@ -22,17 +22,17 @@
 - [POMA](https://github.com/pcastellanoescuder/POMA): Tools for Omics Data Analysis
 - [fobitools](https://github.com/pcastellanoescuder/fobitools): Tools for Manipulating FOBI Ontology
 - [ddh](https://github.com/matthewhirschey/ddh): Package containing raw functions to support the Data-Driven Hypothesis (DDH) app
-- [lassoloops](https://github.com/matthewhirschey/lassoloops): Lasso + Bootstrap methods for predictive modeling
+- [lassoloops](https://github.com/pcastellanoescuder/lassoloops): Lasso + Bootstrap methods for predictive modeling
 
 ✨ &nbsp;**Shiny apps**
 
-- [POMAShiny](https://github.com/matthewhirschey/POMAShiny): Web-based User-friendly Workflow for Metabolomics and Proteomics Data Analysis
-- [POMAcounts](https://github.com/matthewhirschey/POMAcounts): Web-based Application for Exploratory and Statistical Analysis of Mass Spectrometry Spectral Counts Data
+- [POMAShiny](https://github.com/pcastellanoescuder/POMAShiny): Web-based User-friendly Workflow for Metabolomics and Proteomics Data Analysis
+- [POMAcounts](https://github.com/pcastellanoescuder/POMAcounts): Web-based Application for Exploratory and Statistical Analysis of Mass Spectrometry Spectral Counts Data
 - [Data-Driven Hypothesis](https://www.datadrivenhypothesis.com): DDH is a resource to query 100+ GB of raw biological science data to develop data-driven hypotheses
-- [Covid19Explorer](https://github.com/matthewhirschey/Covid19Explorer): Shiny Application for Exploring Multivariate COVID-19 Data
-- [fobitoolsGUI](https://github.com/matthewhirschey/fobitoolsGUI): Web-based Tool for Interacting with FOBI Ontology
-- [pum](https://github.com/matthewhirschey/pum): Shiny app to visualize Florence Nightingale data in Crimean War
-- [Lheuristic](https://github.com/matthewhirschey/Lheuristic): A shiny app to select L-shaped correlated genes using a heuristic algorithm
+- [Covid19Explorer](https://github.com/pcastellanoescuder/Covid19Explorer): Shiny Application for Exploring Multivariate COVID-19 Data
+- [fobitoolsGUI](https://github.com/pcastellanoescuder/fobitoolsGUI): Web-based Tool for Interacting with FOBI Ontology
+- [pum](https://github.com/pcastellanoescuder/pum): Shiny app to visualize Florence Nightingale data in Crimean War
+- [Lheuristic](https://github.com/pcastellanoescuder/Lheuristic): A shiny app to select L-shaped correlated genes using a heuristic algorithm
 
 🔗 &nbsp;**Connect with me**
  
