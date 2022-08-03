@@ -11,7 +11,7 @@
 - 💬 Ask me about R/Shiny or (big) data analysis/modeling
 - 📫 How to reach me: [**@polcastellano_**](https://twitter.com/polcastellano_) or **polcaes@gmail.com**
 - 👨‍💻 Read more about my projects at **https://pcastellanoescuder.github.io**
-- ⚡ Fun fact: I play drums and love boxing, which probably explains a lot of my bugs 😂 
+- ⚡ Fun fact: I play drums and love boxing!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pcastellanoescuder&show_icons=true" alt="Pol Castellano Github Stats"></img>
