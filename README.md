@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on this cool project: **https://www.datadrivenhypothesis.com**
 - 🌱 I’m <del>currently</del> always learning random things
-- 💬 Ask me about R/Shiny or (big) data analysis/modeling
+- 💬 Ask me about R/Shiny or big data analysis/modeling
 - 📫 How to reach me: [**@polcastellano_**](https://twitter.com/polcastellano_) or **polcaes@gmail.com**
 - 👨‍💻 Read more about my projects at **https://pcastellanoescuder.github.io**
 - ⚡ Fun fact: I play drums and love boxing!
@@ -17,14 +17,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pcastellanoescuder&show_icons=true" alt="Pol Castellano Github Stats"></img>
 </p>
 
-📦 &nbsp;**Packages**
-
+<details>
+  <summary><b>📦&nbsp;&nbsp;Packages</b></summary>
+  <br/>
+  
 - [POMA](https://github.com/pcastellanoescuder/POMA): Tools for Omics Data Analysis
 - [fobitools](https://github.com/pcastellanoescuder/fobitools): Tools for Manipulating FOBI Ontology
 - [ddh](https://github.com/matthewhirschey/ddh): Package containing raw functions to support the Data-Driven Hypothesis (DDH) app
 - [lassoloops](https://github.com/pcastellanoescuder/lassoloops): Lasso + Bootstrap methods for predictive modeling
 
-✨ &nbsp;**Shiny apps**
+</details>
+
+<details>
+  <summary><b>✨&nbsp;&nbsp;Shiny apps</b></summary>
+  <br/>
 
 - [POMAShiny](https://github.com/pcastellanoescuder/POMAShiny): Web-based User-friendly Workflow for Metabolomics and Proteomics Data Analysis
 - [POMAcounts](https://github.com/pcastellanoescuder/POMAcounts): Web-based Application for Exploratory and Statistical Analysis of Mass Spectrometry Spectral Counts Data
@@ -33,6 +39,8 @@
 - [fobitoolsGUI](https://github.com/pcastellanoescuder/fobitoolsGUI): Web-based Tool for Interacting with FOBI Ontology
 - [pum](https://github.com/pcastellanoescuder/pum): Shiny app to visualize Florence Nightingale data in Crimean War
 - [Lheuristic](https://github.com/pcastellanoescuder/Lheuristic): A shiny app to select L-shaped correlated genes using a heuristic algorithm
+
+</details>
 
 🔗 &nbsp;**Connect with me**
  
