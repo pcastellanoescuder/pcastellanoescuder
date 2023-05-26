@@ -6,11 +6,9 @@
   </samp>
 </p>
 
-- 🔭 I’m currently working on this cool project: **https://www.datadrivenhypothesis.com**
-- 🌱 I’m <del>currently</del> always learning random things
-- 💬 Ask me about R/Shiny or big data analysis/modeling
+- 👨‍💻 I’m currently working on this awesome project: https://www.datadrivenhypothesis.org**
+- 💬 Ask me about R, Shiny, stats, machine learning, and data mining
 - 📫 How to reach me: [**@polcastellano_**](https://twitter.com/polcastellano_) or **polcaes@gmail.com**
-- 👨‍💻 Read more about my projects at **https://pcastellanoescuder.github.io**
 - ⚡ Fun fact: I play drums and love boxing!
 
 <p align="center">
