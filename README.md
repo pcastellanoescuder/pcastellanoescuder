@@ -6,7 +6,7 @@
   </samp>
 </p>
 
-- 👨‍💻 I’m currently working on this awesome project: https://www.datadrivenhypothesis.org**
+- 👨‍💻 I’m currently working on this awesome project: https://www.datadrivenhypothesis.org
 - 💬 Ask me about R, Shiny, stats, machine learning, and data mining
 - 📫 How to reach me: [**@polcastellano_**](https://twitter.com/polcastellano_) or **polcaes@gmail.com**
 - ⚡ Fun fact: I play drums and love boxing!
@@ -32,7 +32,7 @@
 
 - [POMAShiny](https://github.com/pcastellanoescuder/POMAShiny): Web-based User-friendly Workflow for Metabolomics and Proteomics Data Analysis
 - [POMAcounts](https://github.com/pcastellanoescuder/POMAcounts): Web-based Application for Exploratory and Statistical Analysis of Mass Spectrometry Spectral Counts Data
-- [Data-Driven Hypothesis](https://www.datadrivenhypothesis.com): DDH is a resource to query 100+ GB of raw biological science data to develop data-driven hypotheses
+- [Data-Driven Hypothesis](https://www.datadrivenhypothesis.org): DDH is a resource to query 100+ GB of raw biological science data to develop data-driven hypotheses
 - [Covid19Explorer](https://github.com/pcastellanoescuder/Covid19Explorer): Shiny Application for Exploring Multivariate COVID-19 Data
 - [fobitoolsGUI](https://github.com/pcastellanoescuder/fobitoolsGUI): Web-based Tool for Interacting with FOBI Ontology
 - [pum](https://github.com/pcastellanoescuder/pum): Shiny app to visualize Florence Nightingale data in Crimean War
