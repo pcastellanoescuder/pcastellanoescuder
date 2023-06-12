@@ -10,11 +10,11 @@
 - 💬 Ask me about R, Shiny, stats, machine learning, and data mining
 - 📫 How to reach me: [**@polcastellano_**](https://twitter.com/polcastellano_) or **polcaes@gmail.com**
 - ⚡ Fun fact: I play drums and love boxing!
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pcastellanoescuder&show_icons=true" alt="Pol Castellano Github Stats"></img>
 </p>
-
+-->
 <details>
   <summary><b>📦&nbsp;&nbsp;Packages</b></summary>
   <br/>
