@@ -2,19 +2,19 @@
 
 <p align="center">
   <samp>
-  I'm Pol, Bioinformatician at Duke University. My research focuses on blending computational biology, data science, and AI to revolutionize and accelerate scientific research. Specializing in multi-omics and machine learning, my passion is to unravel complex biological systems and develop tools that bring new insights to the field of genomic medicine. My work aims to bridge data with discovery, making a tangible impact in understanding life’s molecular unknowns.
+  I am a Bioinformatician at Duke University. My research focuses on blending computational biology, data science, and AI to revolutionize and accelerate scientific research. Specializing in multi-omics and machine learning, my passion is to unravel complex biological systems and develop tools that bring new insights to the field of genomic medicine. My work aims to bridge data with discovery, making a tangible impact in understanding life’s molecular unknowns.
   </samp>
 </p>
 
 - 👨‍💻 I’m currently working on this awesome project: https://www.datadrivenhypothesis.org
-- 💬 Ask me about R, Shiny, stats, machine learning, and data mining
-- 📫 How to reach me: [**@polcastellano_**](https://twitter.com/polcastellano_) or **polcaes@gmail.com**
-- ⚡ Fun fact: I play drums and love boxing!
+- 💬 R, Python
+- 🛠️ Docker, Shiny, Keras, TensorFlow, Quarto, AWS, HTML, CSS, SQL
+
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pcastellanoescuder&show_icons=true" alt="Pol Castellano Github Stats"></img>
 </p>
--->
+
 <details>
   <summary><b>📦&nbsp;&nbsp;Packages</b></summary>
   <br/>
@@ -39,6 +39,8 @@
 - [Lheuristic](https://github.com/pcastellanoescuder/Lheuristic): A shiny app to select L-shaped correlated genes using a heuristic algorithm
 
 </details>
+
+-->
 
 🔗 &nbsp;**Connect with me**
  
