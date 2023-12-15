@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-  I'm Pol Castellano, Computational Biologist and Data Scientist. Currently, I'm working at Duke University as a Postdoctoral Researcher, focusing on Deep and Machine learning predictive modeling, clustering algorithms, and Shiny app development for biological sciences. I enjoy coding for fun and I'm interested in pretty much everything that involves coding and data!
+  I'm Pol, Bioinformatician at Duke University. My research focuses on blending computational biology, data science, and AI to revolutionize and accelerate scientific research. Specializing in multi-omics and machine learning, my passion is to unravel complex biological systems and develop tools that bring new insights to the field of genomic medicine. My work aims to bridge data with discovery, making a tangible impact in understanding life’s molecular unknowns.
   </samp>
 </p>
 
