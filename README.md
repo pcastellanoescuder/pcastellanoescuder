@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently working on this awesome project: https://www.datadrivenhypothesis.org
 - 💬 R, Python
-- 🛠️ Docker, Shiny, Keras, TensorFlow, Quarto, AWS, HTML, CSS, SQL
+- 🛠️ Docker, Shiny, Keras, TensorFlow, Quarto, AWS
 
 <!--
 <p align="center">
