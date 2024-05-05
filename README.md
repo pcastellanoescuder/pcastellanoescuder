@@ -1,14 +1,17 @@
-### Hello World 👋
+### Welcome 👨🏼‍💻
 
 <p align="center">
   <samp>
-  I am a Bioinformatician at Duke University. My research focuses on blending computational biology, data science, and AI to revolutionize and accelerate scientific research. Specializing in multi-omics and machine learning, my passion is to unravel complex biological systems and develop tools that bring new insights to the field of genomic medicine. My work aims to bridge data with discovery, making a tangible impact in understanding life’s molecular unknowns.
+  I am a Bioinformatician at Duke University. My research focuses on blending computational biology, data science, and AI to accelerate scientific research. Specializing in multi-omics and machine learning, my passion is to unravel complex biological systems and develop tools that bring new insights to the field of genomic medicine. My work aims to bridge data with discovery, making a tangible impact in understanding life’s molecular unknowns.
   </samp>
 </p>
 
+<!--
 - 👨‍💻 I’m currently working on this awesome project: https://www.datadrivenhypothesis.org
+-->
 - 💬 R, Python
 - 🛠️ Docker, Shiny, Keras, TensorFlow, Quarto, AWS
+- 🤖 LLMs, RAG, Agents, DNNs
 
 <!--
 <p align="center">
