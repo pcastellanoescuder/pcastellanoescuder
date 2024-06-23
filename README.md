@@ -1,17 +1,9 @@
-### Welcome 👨🏼‍💻
+I'm a bioinformatician at Duke University. My research focuses on developing machine learning and AI algorithms to accelerate scientific research. My work aims to bridge data with discovery, making a tangible impact in understanding life’s molecular unknowns.
 
-<p align="center">
-  <samp>
-  I am a Bioinformatician at Duke University. My research focuses on developing machine learning and AI algorithms to accelerate scientific research. My work aims to bridge data with discovery, making a tangible impact in understanding life’s molecular unknowns.
-  </samp>
-</p>
-
-<!--
-- 👨‍💻 I’m currently working on this awesome project: https://www.datadrivenhypothesis.org
--->
+- 💡 Building [HEUREKA](https://www.heurekalabs.co)!
 - 💬 R, Python
-- 🛠️ Docker, Shiny, Keras, TensorFlow, Quarto, AWS
 - 🤖 LLMs, RAG, Agents, DNNs
+<!-- - 🛠️ Docker, Shiny, Keras, TensorFlow, Quarto, AWS -->
 
 <!--
 <p align="center">
