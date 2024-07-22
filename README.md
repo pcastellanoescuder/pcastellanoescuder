@@ -1,9 +1,11 @@
 I'm a bioinformatician at Duke University. My research focuses on developing machine learning and AI algorithms to accelerate science. My work aims to bridge data with discovery, making a tangible impact in understanding life’s molecular unknowns.
 
-- 💡 Building [HEUREKA](https://www.heurekalabs.co)!
-- 💬 R, Python
-- 🤖 LLMs, RAG, Agents, DNNs
-<!-- - 🛠️ Docker, Shiny, Keras, TensorFlow, Quarto, AWS -->
+<!-- 
+💡 Building [HEUREKA](https://www.heurekalabs.co)!
+💬 R, Python
+🤖 LLMs, RAG, Agents, DNNs
+🛠️ Docker, Shiny, Keras, TensorFlow, Quarto, AWS 
+-->
 
 <!--
 <p align="center">
