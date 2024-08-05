@@ -1,6 +1,5 @@
 Bioinformatician at Duke University.   
-Developing machine learning and AI algorithms to accelerate science.   
-My research aims to bridge data with discovery, making a tangible impact in understanding life’s molecular unknowns.
+AI-powered bioinformatics algorithms to accelerate science.   
 
 <!-- 
 💡 Building [HEUREKA](https://www.heurekalabs.co)!
