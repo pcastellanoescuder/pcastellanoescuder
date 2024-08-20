@@ -1,5 +1,5 @@
 Bioinformatician at Duke University.   
-AI-powered bioinformatics algorithms to accelerate science.   
+AI-powered bioinformatics tools to accelerate science.   
 
 <!-- 
 💡 Building [HEUREKA](https://www.heurekalabs.co)!
