@@ -1,5 +1,6 @@
-Bioinformatician at Duke University.   
+<!-- Bioinformatician at Duke University.   
 AI-powered bioinformatics to accelerate science.   
+-->
 
 <!-- 
 💡 Building [HEUREKA](https://www.heurekalabs.co)!
